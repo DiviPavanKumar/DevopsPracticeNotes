@@ -116,6 +116,10 @@ Password: DevOps321
 Proxy - Forward Proxy vs Reverse Proxy:
 Forward Proxy: Client Centric, anomynous, content filtering, cache,  
 
+$netstat -lntp
+$ps -ef | grep mongo
+$systemctl status <servicename> 
+
 
 
 
